@@ -1,0 +1,8 @@
+ 2                              ! ns
+ 300.0 301.0 900.0              !cv_temp, system_temp, bias_factor=deltaT
+ 100 500                        ! frequency of cvmdck file, frequency of hill added
+ 1 60000000                     ! t_min, t_max
+ 3.14  3.14                     ! grid_max
+-3.14 -3.14                     ! grid_min
+ 30 30                          ! bins
+ 19999 
